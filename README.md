@@ -1,4 +1,4 @@
-# Social-Media-App
+# Capture-Your-Moments
 
 This is a social media app called "Capture Your Moments" built using the MERN stack. Users can create, edit, delete, and like posts.
 
